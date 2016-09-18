@@ -16,3 +16,15 @@ body{
   width:100%;
   text-align: center;
 }
+#bio{
+  font-family: 'Ubuntu';
+  font-size: 21px;
+  line-height: 50px;
+  vertical-align: middle;
+  position: absolute;
+  top: 50%;
+  height:50px;
+  margin-top:-25px;
+  width:100%;
+  text-align: center;
+}

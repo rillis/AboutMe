@@ -29,3 +29,15 @@ body{
   left:10%;
   text-align: center;
 }
+#git{
+  font-family: 'Ubuntu';
+  font-size: 18px;
+  color: #fff;
+  height:25px;
+  width:65px;
+  line-height: 25px;
+  vertical-align: middle;
+  text-align: center;
+  border: 1px solid #000;
+  border-radius: 10px;
+}

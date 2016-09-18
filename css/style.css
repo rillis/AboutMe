@@ -6,13 +6,13 @@ body{
 }
 #ola{
   font-family: 'Vera';
-  font-size: 80px;
+  font-size: 90px;
   line-height: 200px;
   vertical-align: middle;
   position: absolute;
   top: 50%;
   height:200px;
-  margin-top:-100px;
+  margin-top:-150px;
   width:100%;
   text-align: center;
 }

@@ -6,7 +6,9 @@ body{
 }
 #ola{
   font-family: 'Vera';
-  font-size: 70px;
+  font-size: 80px;
+  line-height: 200px;
+  vertical-align: middle;
   position: absolute;
   top: 50%;
   height:200px;

@@ -6,7 +6,11 @@ body{
 }
 #ola{
   font-family: 'Vera';
-  font-size: 30px;
+  font-size: 70px;
+  position: absolute;
+  top: 50%;
+  height:200px;
+  margin-top:-100px;
   width:100%;
   text-align: center;
 }

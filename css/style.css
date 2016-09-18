@@ -4,3 +4,9 @@ body{
   width:100%;
   height:100%;
 }
+#ola{
+  font-family: 'Vera';
+  font-size: 30px;
+  width:100%;
+  text-align: center;
+}

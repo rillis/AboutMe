@@ -32,10 +32,10 @@ body{
 #git{
   font-family: 'Ubuntu';
   font-size: 18px;
-  color: #fff;
+  color: #000;
   height:35px;
   width:120px;
-  line-height: 25px;
+  line-height: 35px;
   vertical-align: middle;
   text-align: center;
   border: 1px solid #000;
@@ -45,5 +45,5 @@ body{
   top: 50%;
   margin-top:90px;
   left: 50%;
-  margin-left: -60px;;
+  margin-left: -60px;
 }

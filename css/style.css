@@ -19,12 +19,13 @@ body{
 #bio{
   font-family: 'Ubuntu';
   font-size: 21px;
-  line-height: 50px;
+  line-height: 25px;
   vertical-align: middle;
   position: absolute;
   top: 50%;
   height:50px;
-  margin-top:-25px;
+  margin-top:25px;
+  margin: 100px;
   width:100%;
   text-align: center;
 }
